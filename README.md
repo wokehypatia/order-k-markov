@@ -13,3 +13,5 @@ The Markov class represents a k-character substring with a random method that re
 My own hash map is implemented with separate chaining in a class called MyHashMap<K,V>.
 
 MyHashMapTest.java is a JUnit test class for MyHashMap.
+
+text-examples contains some .txt files that might be fun to train Markov models on in order to generate similarly stylized random text.
