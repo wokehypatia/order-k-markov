@@ -5,8 +5,6 @@ import java.util.Scanner;
  * Prints out the number of distinct keys of a user given length in a user given
  * string. Then prints out the frequency of each key in the string.
  * 
- * @author Asie Mussard-Afcari April 20, 2015 I affirm I have adhered to the
- *         Honor Code in this assessment.
  * 
  */
 public class FrequencyCounter {
