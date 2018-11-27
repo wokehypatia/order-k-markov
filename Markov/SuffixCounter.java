@@ -6,8 +6,6 @@ import java.util.Scanner;
  * string. Then prints out the frequency of each key in the string with
  * suffixes.
  * 
- * @author Asie Mussard-Afcari, April 20, 2015. I affirm that I have adhered to
- *         the Honor Code in this assessment.
  * 
  */
 public class SuffixCounter {
