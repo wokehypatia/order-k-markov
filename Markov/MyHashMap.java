@@ -6,8 +6,6 @@ import java.util.NoSuchElementException;
 /**
  * An implementation of a HashMap.
  * 
- * @author Asie Mussard-Afcari April 20, 2015 I affirm that I have adhered to
- *         the Honor Code in this assessment.
  * @param <K>
  *            key of the hashmap entry
  * @param <V>
