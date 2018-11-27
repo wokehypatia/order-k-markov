@@ -5,8 +5,6 @@ import java.io.IOException;
 /**
  * Generates random text from a source file using Markov chains.
  * 
- * @author Asie Mussard-Afcari, April 20, 2015. I affirm that I have adhered to
- *         the Honor Code in this assessment.
  * 
  */
 //Args <size of model in characters, size of output in characters, name of file> 
