@@ -6,8 +6,6 @@ import java.util.TreeMap;
 /**
  * A Markov Object to use in text generation.
  * 
- * @author Asie Mussard-Afcari April 20, 2015 (Happy Donut Day, Glaze It!!) I
- *         affirm I have adhered to the Honor Code in this assessment.
  * 
  */
 public class Markov {
